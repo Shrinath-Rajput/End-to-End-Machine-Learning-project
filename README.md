@@ -1,1 +1,1 @@
-##End to ENd machine learing project 
+##End to End machine learing project 
